@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 9d5b8a57cde1b6f428070c7c687f13a7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Componente_2_1
+    100002: Componente_2_2
+    100004: foco_de_mercurio_1_1
+    100006: foco_de_mercurio_1_2
+    100008: Luminaria_con_vidrio_borosilicato1
+    100010: Luminaria_con_vidrio_borosilicato2
+    100012: Luminaria_P_blica_de_8_mts_1
+    100014: Luminaria_P_blica_de_8_mts_2
+    100016: Mesh1
+    100018: Mesh2
+    100020: Mesh3
+    100022: Mesh4
+    100024: Mesh5
+    100026: Mesh6
+    100028: Mesh7
+    100030: Mesh8
+    100032: //RootNode
+    100034: Sin_t_tulo1
+    400000: Componente_2_1
+    400002: Componente_2_2
+    400004: foco_de_mercurio_1_1
+    400006: foco_de_mercurio_1_2
+    400008: Luminaria_con_vidrio_borosilicato1
+    400010: Luminaria_con_vidrio_borosilicato2
+    400012: Luminaria_P_blica_de_8_mts_1
+    400014: Luminaria_P_blica_de_8_mts_2
+    400016: Mesh1
+    400018: Mesh2
+    400020: Mesh3
+    400022: Mesh4
+    400024: Mesh5
+    400026: Mesh6
+    400028: Mesh7
+    400030: Mesh8
+    400032: //RootNode
+    400034: Sin_t_tulo1
+    2100000: _LightGray_
+    2100002: _5
+    2100004: FrontColor
+    2100006: _4
+    2100008: M_0128_White
+    2100010: M_0136_Charcoal
+    2100012: _11
+    2100014: M_96_96_96
+    2300000: Mesh1
+    2300002: Mesh2
+    2300004: Mesh3
+    2300006: Mesh4
+    2300008: Mesh5
+    2300010: Mesh6
+    2300012: Mesh7
+    2300014: Mesh8
+    3300000: Mesh1
+    3300002: Mesh2
+    3300004: Mesh3
+    3300006: Mesh4
+    3300008: Mesh5
+    3300010: Mesh6
+    3300012: Mesh7
+    3300014: Mesh8
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: Mesh4
+    4300008: Mesh5
+    4300010: Mesh6
+    4300012: Mesh7
+    4300014: Mesh8
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
